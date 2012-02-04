@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kursusetoo application pages | <%= @title %></title>
+  </head>
+  <body>
+    <h1>About Me</h1>
+    <p>
+      This page content ifnormation about me
+    </p>
+  </body>
+</html>
+

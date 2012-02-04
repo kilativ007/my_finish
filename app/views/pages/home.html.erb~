@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Kursusetoo application pages | <%= @title %> </title>
+  </head>
+  <body>
+    <h1> My home </h1>
+    <p>
+      This is the my homepage   
+    </p>
+  </body>
+</html>
+
